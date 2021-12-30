@@ -1,0 +1,12 @@
+apt update
+apt upgrade
+pkg install git 
+pkg install git curl openssh php -y
+git clone https://github.com/htr-tech/zphher.git
+cd zphisher
+ls
+bash zphisher.sh
+
+
+
+            ENJOY THE TOOL
